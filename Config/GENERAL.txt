@@ -1,6 +1,7 @@
 #
 # 3. Applications
 #
+CONFIG_PACKAGE_luci-app-quickstart=y
 CONFIG_PACKAGE_luci-app-Airpifanctrl=y
 CONFIG_PACKAGE_luci-app-diskman=y
 CONFIG_PACKAGE_luci-app-diskman_INCLUDE_btrfs_progs=y
