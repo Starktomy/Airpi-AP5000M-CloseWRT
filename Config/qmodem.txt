@@ -14,7 +14,7 @@ CONFIG_PACKAGE_luci-app-store=y
 #CONFIG_CCACHE=y
 CONFIG_DEVEL=y
 
-CONFIG_PACKAGE_luci-app-qmodem=y
+CONFIG_PACKAGE_luci-app-qmodem-next=y
 CONFIG_PACKAGE_luci-app-qmodem_INCLUDE_vendor-qmi-wwan=y
 # CONFIG_PACKAGE_luci-app-qmodem_INCLUDE_generic-qmi-wwan is not set
 CONFIG_PACKAGE_luci-app-qmodem_USE_TOM_CUSTOMIZED_QUECTEL_CM=y
